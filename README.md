@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Muhammad Abbas
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java programming.
-- 💞️ I’m looking to collaborate on Pyton language.
+
 - 📫 my email  # mabbskhan797@gmail.com
 
 <!---
